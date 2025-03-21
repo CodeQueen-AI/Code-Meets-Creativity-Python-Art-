@@ -15,4 +15,12 @@ Python Art Collection! 🐍
 
 🔷 Project06 - Hypnotic Flower 🌺
 
+🔷 Project07 - Abstract Turtle Art 🎨🐢
+
+🔷 Project08 - Rainbow Spiral Flower 🌈🌸
+
+🔷 Project09 - Colorful Symmetric Loop 🔵🔁
+
+🔷 Project10 - Colorful Spiral Art 🎨🌀
+
 ### *✨Crafted with fun and creativity by Funny Code Queen!🚀*
